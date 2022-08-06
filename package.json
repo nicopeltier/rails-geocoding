@@ -1,0 +1,10 @@
+{
+  "name": "rails-geocoding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nicolas Peltier <nicolas.peltier@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
